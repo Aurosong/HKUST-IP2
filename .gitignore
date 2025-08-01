@@ -1,0 +1,12 @@
+docs
+.vscode
+pg_src
+pgsql
+postgis
+tree
+logfile
+pq/build
+json2shp/__pycache__
+ip2
+*.zip
+*.txt
